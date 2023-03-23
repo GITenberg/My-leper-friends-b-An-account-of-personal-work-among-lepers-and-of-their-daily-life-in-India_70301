@@ -1,0 +1,31 @@
+_repo: My-leper-friends-b-An-account-of-personal-work-among-lepers-and-of-their-daily-life-in-India_70301
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Maclaren, G. G.
+    gutenberg_agent_id: '55692'
+    url: http://www.gutenberg.org/2009/agents/55692
+creator:
+  author:
+    agent_name: Hayes, Alice M.
+    gutenberg_agent_id: '31908'
+    url: http://www.gutenberg.org/2009/agents/31908
+description: ''
+gutenberg_issued: '2023-03-16'
+identifiers:
+  gutenberg: '70301'
+language: en
+pgterms:marc905: 20220212161911hayes
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bW. Thacker and Co., $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'My leper friends : $b An account of personal work among lepers, and of their
+  daily life in India'
+url: http://www.gutenberg.org/ebooks/70301
