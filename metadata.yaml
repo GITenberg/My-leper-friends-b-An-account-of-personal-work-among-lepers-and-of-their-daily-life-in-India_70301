@@ -5,12 +5,17 @@ contributor:
     agent_name: Maclaren, G. G.
     gutenberg_agent_id: '55692'
     url: http://www.gutenberg.org/2009/agents/55692
+covers:
+- cover_type: archival
+  image_path: 70301-h/images/cover.jpg
 creator:
   author:
     agent_name: Hayes, Alice M.
     gutenberg_agent_id: '31908'
     url: http://www.gutenberg.org/2009/agents/31908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70301#My-leper-friends-b-An-account-of-personal-work-among-lepers-and-of-their-daily-life-in-India
 gutenberg_issued: '2023-03-16'
 identifiers:
   gutenberg: '70301'
